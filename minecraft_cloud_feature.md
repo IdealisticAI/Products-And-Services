@@ -3,9 +3,6 @@
 ## Outdated Version Check
 This feature automatically checks the plugin's versions and compares it to the Cloud database. This allows the ability to notify the user when they are using an outdated plugin version, because updating often is important. It doesn't collect any private information and is purely used for awareness purposes.
 
-## Punished Players Storage
-When the plugin has significant evidence a player is using a modified client to gain an unfair advantage against legitimate players, it stores them on the Cloud. This list of stored punished players is then used in other plugins to prevent these players from joining if the system believes they are trying to evade their punishment. This feature may collect player IP addresses for the purpose of comparing them when they join a server, and is purely used for punishment evasion purposes.
-
 ## Auto Updater
 This feature is available to everyone for free. After you download your chosen product from the #my-account Discord text-channel, upload it to your server and the Auto Updater will enable automatically. The downloaded file may have some random characters in its name which you should not remove as they help our system identify your license and let the product continue working. 4 times in a year would be sufficient enough to keep using our Auto Updater as we expire our tokens after 3 months as a security measurement.
 
